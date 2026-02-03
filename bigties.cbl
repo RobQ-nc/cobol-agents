@@ -28,7 +28,7 @@
        01 TIE-SIZE PIC X(10) VALUE "BIG ASS".
        01 GREETING PIC X(50).
        PROCEDURE DIVISION.
-           STRING "HELLO CLAUDE. TIE SIZE = "
+           STRING "HELLO I AM ROBERT. TIE SIZE = "
                   DELIMITED SIZE
                   TIE-SIZE
                   DELIMITED SIZE
